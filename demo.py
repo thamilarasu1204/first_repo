@@ -1,4 +1,6 @@
+
 if:
+if else:
 #this is simple for loop
 for i in range(1,10):
 	print(i**2)
