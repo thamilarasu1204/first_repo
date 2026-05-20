@@ -1,3 +1,4 @@
+import numpy as np
 
 print ("thamil")
 print("hey hey")
